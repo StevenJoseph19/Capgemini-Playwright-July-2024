@@ -8,3 +8,12 @@
     "workbench.editor.enablePreview": false
   }
 }
+========================================================================
+To open the User settings:
+========================================================================
+
+Open the command palette (either with F1 or Ctrl+Shift+P)
+Type "open settings"
+You are presented with a few options¹, choose Open User Settings (JSON)
+
+*************************************************************************
