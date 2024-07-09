@@ -1,0 +1,12 @@
+1. Create a test _1mod4-locators.test.ts
+
+2. Copy and paste the code from _2locators-generic.test.ts
+
+3. Construct the XPath to the "Clear" button.
+
+4. Use the XPath to click the "Clear" button.
+
+5. Create a expectation that "Valid first name is required" is visible.
+
+*********************************************************************************
+               **************************************************
