@@ -1,4 +1,4 @@
-1. Create a folder m5-basic-actions under tests directory.
+1. Create a folder m5-basic-actions under tests/lab-exercises directory.
 
 2. Create a test _1mod5-basic-actions.test.ts
 
